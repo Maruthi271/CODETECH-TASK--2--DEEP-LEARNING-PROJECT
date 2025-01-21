@@ -15,3 +15,7 @@
 # ENTER DESCRIPTION OF TASK PERFORMED NOTLESS THAN 500 WORDS
 
 # OUTPUT OF THE TASK - TWO
+
+https://github.com/Maruthi271/CODETECH-TASK--2--DEEP-LEARNING-PROJECT/blob/main/Task%20two%20op1.jpg
+
+https://github.com/Maruthi271/CODETECH-TASK--2--DEEP-LEARNING-PROJECT/blob/main/Task%20two%20op2.jpg
